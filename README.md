@@ -1,5 +1,233 @@
-# 💫 About Me:
-About You – Saket Chadha<br>Based on what you've shared with me across our conversations, here's a profile of you, your education, technical skills, professional experience, projects, and goals.<br>1. Personal & Educational Background<br>- Name: Saket Chadha<br>- Date of Birth: 1 November 2003<br>- Gender: Male<br>- Education: B.Tech in Computer Science and Engineering<br>- Specialisation: E-Commerce<br>- University: VIT Bhopal University<br>- Batch: 2022–2026<br>- CGPA: 6.74<br>- Languages: English, Hindi and Punjabi<br>- Hometown: Ambala, Haryana<br>2. Your Technical Skills<br>You have been developing skills primarily in full-stack development, web technologies, AI integration and cloud-based applications.<br>Category	Technologies<br>Frontend	HTML, CSS, JavaScript, React.js<br>Backend	Node.js, Express.js, PHP<br>Database	MongoDB, MySQL<br>Programming	Python, C, C++<br>Frameworks	Bootstrap, CodeIgniter<br>Tools	VS Code, Git, GitHub, Postman<br>Development	REST APIs, React Query, Axios<br>AI	LLM integration, Groq API, AI chatbots<br>Cloud & DevOps	Docker, Docker Compose, Azure, CI/CD<br>Other	MCP, API integration, Testing<br><br><br>Your strongest developing area: Full-stack web development combined with AI application development.<br>3. Your Professional Experience<br>You have explored several internship opportunities and gained practical exposure to software development.<br><br>Some of the organisations and opportunities you've mentioned:<br>- CirrusLabs: Selected for an internship in Bangalore, working around application development, AI, cloud computing and testing.<br>- Clinch Soft Bridge: Internship opportunity with a monthly stipend of ₹23,000.<br>- Upzenix: Selected for its Summer Internship Program 2026.<br>You have also worked with internal company projects and development environments.<br>4. Projects You've Worked On<br>This is one of the most interesting parts of your profile.<br>A. CirrusHub AI Assistant<br>Your AI chatbot project.<br><br>Technologies:<br>- React.js<br>- TypeScript<br>- Node.js<br>- Express.js<br>- Groq API<br>- LLMs<br>- REST APIs<br>Features you've implemented or explored:<br>- ChatGPT-like conversational interface.<br>- AI-powered question answering.<br>- Frontend chat interface.<br>- Backend AI integration.<br>- API-based communication.<br>- Demo mode.<br>- AI response generation.<br>You built this as a separate project to demonstrate how an AI assistant could work within the CirrusHub ecosystem.<br>B. Smart City Management System<br>A web-based smart city management application.<br><br>Features you planned:<br>- Complaint management.<br>- Emergency reporting.<br>- Parking management.<br>- Transport and shuttle management.<br>- Maintenance requests.<br>- Notifications.<br>- Admin dashboard.<br>Technologies:<br>- React.js<br>- Node.js<br>- Express.js<br>- MongoDB<br>C. Vedanta Claire POC<br>You have also worked on the Vedanta Claire POC development environment.<br><br>Your exposure includes:<br>- Docker and Docker Compose.<br>- MongoDB.<br>- Redis.<br>- Node.js.<br>- Knowledge base integration.<br>- API debugging.<br>- Container management.<br>- Local development environments.<br>You successfully brought up several Docker containers and investigated backend API issues.<br>D. Other Projects<br>- Responsive Website.<br>- Personal Portfolio Website.<br>- Admin Dashboard Template.<br>5. Technologies You're Currently Exploring<br>Your recent work indicates that you're moving beyond traditional web development.<br><br>Some technologies you're getting exposure to:<br>Technology	What you're learning<br>React.js	Building modern frontend applications<br>Node.js	Backend development<br>TypeScript	Structured JavaScript development<br>Docker	Containerisation<br>Azure	Cloud infrastructure<br>MongoDB	NoSQL database management<br>Redis	Caching and data management<br>Groq	AI model integration<br>MCP	Connecting AI assistants with external tools<br>LLMs	Building AI-powered applications<br>CI/CD	Application deployment workflows<br><br><br>6. Your Career Goals<br>From our previous discussions, I understand that you want to:<br>1. Build a strong career in software development.<br>2. Get a full-time developer job.<br>3. Target a salary of ₹8–15 LPA.<br>4. Find opportunities around Chandigarh, Mohali, Ambala, Gurgaon, Delhi and Noida.<br>5. Prefer work-from-home opportunities.<br>6. Become stronger in full-stack development and AI.<br>7. Build practical projects that you can demonstrate in interviews.<br>8. Improve your GitHub and resume.<br>You have also mentioned wanting to explore international opportunities, particularly Dubai.<br>7. Your Business Background<br>Your family has a business involving:<br>- Truck spare parts.<br>- Engine oil and related products.<br>You also discussed a separate corporate gifting business idea:<br><br>Business name: Mark & Make<br><br>Products:<br>- Corporate pens.<br>- Bottles.<br>- Premium corporate gifts.<br>- VIP gifting solutions.<br>Your preferred branding style was premium and minimalist.<br>8. My Assessment of Your Current Technical Profile<br>Based on the projects and technologies you've discussed, here's how I would categorise your profile.<br>Area	My assessment<br>HTML/CSS	Working knowledge<br>JavaScript	Developing<br>React.js	Practical project experience<br>Node.js	Practical project experience<br>Backend APIs	Practical experience<br>MongoDB	Basic to developing<br>Git/GitHub	Practical experience<br>Docker	Beginner to developing<br>Azure	Initial practical exposure<br>AI integration	Practical project experience<br>MCP	Exploring<br>System deployment	Initial practical exposure<br><br><br>These are approximate assessments based on our discussions, not formal skill-test results.<br>9. Where I Think You Should Focus Next<br>If I were planning your career development, I would recommend concentrating on these five areas:<br>1. Advanced React.js: Hooks, Context API, Redux, React Query and performance optimisation.<br>2. Backend development: Node.js, Express.js, authentication, JWT, APIs and database design.<br>3. AI development: LLMs, RAG, MCP, embeddings, vector databases and AI agents.<br>4. Cloud and DevOps: Docker, Azure, GitHub Actions and deployment.<br>5. DSA and problem-solving: Essential for software engineering interviews.<br>My overall impression<br>You're transitioning from being a traditional frontend/web developer into a Full-Stack Developer with an interest in AI Engineering.<br><br>Your CirrusHub AI Assistant is particularly important because it demonstrates an attempt to build an actual AI-powered application rather than just learning concepts.<br><br>One piece of advice: Don't try to learn 20 technologies simultaneously. Become genuinely good at React, Node.js, databases and AI integration. Build two or three polished projects and learn to explain their architecture, challenges and implementation.<br><br>That will make your profile considerably stronger.
+# 💫 About Me
+
+Hi, I'm **Saket Chadha**, a Computer Science Engineering graduate from **VIT Bhopal University**, specialising in E-Commerce.
+
+I'm an aspiring **Full-Stack Developer and AI Engineer** with hands-on experience in web development, backend technologies, AI integration, cloud computing and application development.
+
+I enjoy building practical applications, exploring emerging technologies and solving real-world problems through software.
+
+---
+
+## 🎓 Education & Background
+
+- **Name:** Saket Chadha
+- **Date of Birth:** 1 November 2003
+- **Degree:** B.Tech – Computer Science and Engineering
+- **Specialisation:** E-Commerce
+- **University:** VIT Bhopal University
+- **Batch:** 2022–2026
+- **Location:** Bengaluru ,Karnataka, India
+- **Languages:** English, Hindi and Punjabi
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+
+- JavaScript
+- Python
+- C
+- C++
+- PHP
+
+### Frontend Development
+
+- HTML5
+- CSS3
+- React.js
+- TypeScript
+- Bootstrap
+
+### Backend Development
+
+- Node.js
+- Express.js
+- PHP
+- REST APIs
+
+### Databases
+
+- MongoDB
+- MySQL
+- Redis
+
+### AI & Emerging Technologies
+
+- Large Language Models (LLMs)
+- AI Chatbot Development
+- Groq API Integration
+- Model Context Protocol (MCP)
+- AI Agents
+- API Integration
+
+### Cloud & DevOps
+
+- Microsoft Azure
+- Docker
+- Docker Compose
+- GitHub Actions
+- CI/CD
+
+### Development Tools
+
+- Visual Studio Code
+- Git & GitHub
+- Postman
+- XAMPP
+- phpMyAdmin
+
+---
+
+## 💼 Professional Experience
+
+### CirrusLabs
+
+**Software Development Intern | Bangalore**
+
+Gained practical exposure to software development, application development, AI technologies, cloud computing and software testing.
+
+Areas of involvement:
+
+- Application development and debugging.
+- AI-powered application exploration.
+- Backend API integration.
+- Docker-based development environments.
+- Cloud infrastructure exposure.
+- Software testing and quality control.
+
+### Other Internship Opportunities
+
+- **Clinch Soft Bridge:** Internship opportunity in software development.
+- **Upzenix:** Selected for the Summer Internship Program 2026.
+
+---
+
+## 🚀 Projects
+
+### 1. CirrusHub AI Assistant
+
+An AI-powered conversational assistant developed to explore ChatGPT-like capabilities within the CirrusHub ecosystem.
+
+**Tech Stack:**
+React.js | TypeScript | Node.js | Express.js | Groq API | REST APIs
+
+**Key Features:**
+
+- Interactive AI chatbot interface.
+- Natural-language question answering.
+- LLM integration using Groq API.
+- Frontend and backend communication.
+- AI-powered response generation.
+- Demo mode and conversational experience.
+
+**Objective:** Build an intelligent assistant that can interact with users and provide AI-generated responses through a modern web interface.
+
+### 2. Smart City Management System
+
+A web-based platform designed to simplify smart city operations and citizen services.
+
+**Tech Stack:**
+React.js | Node.js | Express.js | MongoDB
+
+**Key Features:**
+
+- Complaint and ticket management.
+- Emergency reporting.
+- Parking management.
+- Public transportation and shuttle management.
+- Maintenance requests.
+- Notification system.
+- Administrative dashboard.
+
+### 3. Vedanta Claire POC
+
+Worked with a containerised AI application development environment.
+
+**Technologies:**
+Docker | Docker Compose | Node.js | MongoDB | Redis
+
+**Areas of Work:**
+
+- Setting up local development environments.
+- Docker container management.
+- Backend API debugging.
+- MongoDB and Redis integration exposure.
+- Knowledge base integration.
+- Troubleshooting application services.
+
+### 4. Other Projects
+
+- Responsive Website Development.
+- Personal Portfolio Website.
+- Admin Dashboard Template.
+
+---
+
+## 🧠 Technologies I'm Exploring
+
+| Technology      | Focus Area                        |
+| --------------- | --------------------------------- |
+| React.js        | Modern frontend development       |
+| TypeScript      | Type-safe application development |
+| Node.js         | Backend development               |
+| MongoDB         | Database management               |
+| Redis           | Caching and data management       |
+| Docker          | Containerisation                  |
+| Microsoft Azure | Cloud infrastructure              |
+| Groq API        | LLM integration                   |
+| MCP             | AI and external tool connectivity |
+| RAG             | Retrieval-Augmented Generation    |
+| AI Agents       | Intelligent automation            |
+| CI/CD           | Application deployment            |
+
+---
+
+## 🎯 Career Interests & Goals
+
+I'm particularly interested in:
+
+- Full-Stack Web Development.
+- Artificial Intelligence and Generative AI.
+- AI Agent Development.
+- Backend Engineering.
+- Cloud Computing and DevOps.
+- Software Engineering.
+- Building scalable and practical applications.
+
+My goal is to continuously improve my technical skills, contribute to meaningful projects and grow as a software developer.
+
+I'm also interested in exploring opportunities in India and internationally.
+
+---
+
+## 📈 Current Learning Focus
+
+My current priorities include:
+
+1. **Advanced React.js:** Hooks, Context API, Redux and React Query.
+2. **Backend Engineering:** Node.js, Express.js, authentication and database design.
+3. **AI Engineering:** LLMs, RAG, MCP, embeddings and AI agents.
+4. **Cloud & DevOps:** Azure, Docker, Kubernetes and CI/CD.
+5. **Problem Solving:** Data Structures and Algorithms (DSA).
+
+---
+
+## 👨‍💻 Professional Profile
+
+I consider myself an enthusiastic developer who enjoys learning by building real-world applications.
+
+My technical journey is evolving from traditional web development towards **Full-Stack Engineering and AI-powered application development**.
+
+I believe in continuous learning, practical implementation and staying updated with emerging technologies.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with developers, exploring new technologies, collaborating on projects and discovering exciting opportunities.
+
+**Areas of Interest:** Full-Stack Development | AI Engineering | Generative AI | Cloud Computing | Software Development
 
 
 ## 🌐 Socials:
